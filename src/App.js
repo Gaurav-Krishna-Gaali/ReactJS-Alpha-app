@@ -1,7 +1,7 @@
-import React from "react";
+import "./App.css";
 
-const App = () => {
-  return <div>App</div>;
-};
+function App() {
+  return <div className="text-3xl font-bold underline">Hell</div>;
+}
 
 export default App;
