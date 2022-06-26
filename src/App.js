@@ -101,7 +101,7 @@ function App() {
                 <Route path="/pie" element={<Pie />} />
                 <Route path="/financial" element={<Financial />} />
                 <Route path="/color-mapping" element={<ColorMapping />} />
-                <Route path="/pyramind" element={<Pyramid />} />
+                <Route path="/pyramid" element={<Pyramid />} />
                 <Route path="/stacked" element={<Stacked />} />
               </Routes>
             </div>
